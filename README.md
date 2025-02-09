@@ -30,6 +30,9 @@
   </p>
 </div>
 
+### 🌟 Bio:
+Passionate about Machine Learning, Blockchain, and Full-Stack Development. I love building creative and efficient solutions to real-world problems. Currently exploring deep learning, smart contracts, and decentralized applications.
+
 ### 🚀 Experience:
 - **Research Intern at IIT Mandi (May 2024 - Jul 2024)**
   - Conducted a comparative analysis of 7 prediction models, improving accuracy by 15% for detecting prostate cancer.
