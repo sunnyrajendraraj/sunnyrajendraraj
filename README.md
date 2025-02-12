@@ -53,8 +53,10 @@ Passionate about Machine Learning, Blockchain, and Full-Stack Development. I lov
 - **Smart India Hackathon 2024** - Top 6 teams in college-level competition.
 - **Yuva Sangam Phase 4** - Sole representative from IIIT Bhagalpur at top innovation hubs.
 
-<p align=center>
-<img src="https://streak-stats.demolab.com?user=sunnyrajendraraj&theme=light" alt="Sunny's_streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sunnyrajendraraj&theme=light" alt="Sunny's streak" />
 </p>
+
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyrajendraraj&theme=light)](https://github.com/sunnyrajendraraj)
