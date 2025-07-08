@@ -2,13 +2,6 @@
   ✨ ʜᴇʏ, ɪ'ᴍ <span style="color: #1E90FF;">ＳＵＮＮＹ ＲＡＪ</span> ✨
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500&pause=1000&size=24" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sunnyrajendraraj/count.svg?" alt="Profile Counter">
-</p>
 
 ---
 
