@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast+🚀;Building+Creative+Solutions+🛠️;ML+and+Blockchain+Developer+🤖;&center=true&color=FFD700&width=500"/>
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500"/>
 </div>
 
 <div align="center">
@@ -13,36 +13,35 @@
 ---
 
 ## 🌟 Bio:
-🚀 Passionate about Machine Learning, Blockchain, and Full-Stack Development.  
-💡 I love building creative and efficient solutions to real-world problems.  
-📌 Currently exploring deep learning, smart contracts, and decentralized applications.  
+🎯 Focused on Generative AI, Agentic AI, and Large Language Models.  
+🛠️ Building intelligent systems that solve practical problems with creativity and scale.  
+📚 Exploring autonomous agents, model training, and multimodal AI systems.
 
 ---
 
 ## 🚀 Experience:
-- **Research Intern at IIT Mandi (May 2024 - Jul 2024)**
-  - Conducted a comparative analysis of 7 prediction models, improving accuracy by 15% for detecting prostate cancer.
-  - Implemented ML & DL techniques reducing false positives by 20%.
-  - Optimized data processing workflows, enhancing model training efficiency by 25%.
+- **Research Intern at IIT Mandi (May 2024 - Jul 2024)**  
+  Conducted comparative analysis of ML models for medical diagnosis, improving prediction accuracy by 15% and reducing false positives by 20%.
 
 ---
 
 ## 💻 Projects:
-### 🔹 **eVault-dApp** | ReactJS, Solidity, Ether.js, Hardhat, IPFS  
-  - Built a secure file management platform, reducing paperwork by 40%.
-  - Improved system accuracy and real-time tracking.
+### 🔹 **LLM from Scratch** | Tokenizer, Attention, Transformer  
+- Built a minimal transformer-based language model from first principles using PyTorch.  
+- Trained on custom corpora to understand Hindi-English code-mix inputs.
 
-### 🔹 **Deepfake Video Detection** | TensorFlow, OpenCV, MobileNetV2, LSTM  
-  - Achieved **91.48% accuracy** in detecting deepfake videos.
-  - Processed **6,458 videos** from Kaggle's Deepfake Detection Challenge.
+### 🔹 **Hindi Book Recommendation System** | Python, ML, Streamlit  
+- Developed a personalized recommendation system for Hindi readers.  
+- Deployed using Streamlit.
 
 ---
 
 ## 🏆 Achievements:
-🏅 **Student Coordinator, Startup Cell** - Promoted entrepreneurship at IIIT Bhagalpur.  
-🏅 **Top 50 in Adobe GenSolve Hackathon 2024** (out of 1,00,000 participants).  
-🏅 **Smart India Hackathon 2024** - Top 6 teams in college-level competition.  
-🏅 **Yuva Sangam Phase 4** - Sole representative from IIIT Bhagalpur at top innovation hubs.  
+🏅 **Top 50** - Adobe GenSolve Hackathon 2024 (among 1,00,000+ participants)  
+🏅 **Smart India Hackathon 2024** – Ranked top 6 in college-level finals  
+🏅 **Student Coordinator** – Startup Cell, IIIT Bhagalpur  
+🏅 **GATE-CS 2025** – Qualified
+🏅 **Yuva Sangam Phase 4** – Sole institute representative visiting top Indian innovation hubs  
 
 ---
 
