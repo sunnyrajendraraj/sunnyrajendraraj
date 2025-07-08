@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500"/>
+ <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500"/>
 </div>
 
 <div align="center">
@@ -41,6 +41,7 @@
 🏅 **Smart India Hackathon 2024** – Ranked top 6 in college-level finals  
 🏅 **Student Coordinator** – Startup Cell, IIIT Bhagalpur  
 🏅 **GATE-CS 2025** – Qualified
+
 🏅 **Yuva Sangam Phase 4** – Sole institute representative visiting top Indian innovation hubs  
 
 ---
