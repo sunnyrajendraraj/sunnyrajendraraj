@@ -1,14 +1,14 @@
-<h1 align="center" style="font-family: 'Arial Black', sans-serif; letter-spacing: 2px; color: #FF8C00;">
-  ✨ ʜᴇʏ, ɪ'ᴍ <span style="color: #1E90FF; text-shadow: 2px 2px 4px #000;">ＳＵＮＮＹ ＲＡＪ</span> ✨
+<h1 align="center">
+  ✨ ʜᴇʏ, ɪ'ᴍ <span style="color: #1E90FF;">ＳＵＮＮＹ ＲＡＪ</span> ✨
 </h1>
 
-<div align="center">
- <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=GenAI+and+Agentic+AI+Enthusiast+🤖;Building+LLM-Powered+Systems+🚀;&center=true&color=FFD700&width=500&pause=1000&size=24" alt="Typing SVG">
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sunnyrajendraraj/count.svg?" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sunnyrajendraraj/count.svg?" alt="Profile Counter">
+</p>
 
 ---
 
@@ -40,9 +40,8 @@
 🏅 **Top 50** - Adobe GenSolve Hackathon 2024 (among 1,00,000+ participants)  
 🏅 **Smart India Hackathon 2024** – Ranked top 6 in college-level finals  
 🏅 **Student Coordinator** – Startup Cell, IIIT Bhagalpur  
-🏅 **GATE-CS 2025** – Qualified
-
 🏅 **Yuva Sangam Phase 4** – Sole institute representative visiting top Indian innovation hubs  
+🏅 **GATE-CS 2025** – Qualified
 
 ---
 
