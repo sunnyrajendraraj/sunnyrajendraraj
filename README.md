@@ -1,176 +1,93 @@
 # Hey, I’m **Sunny Raj**
 
-### AI Product Manager · Agentic AI · LLM Systems
+### Product Manager · AI Systems Thinker · 0→1 Builder
 
 <p align="center">
-  <b>I build AI products that work in the real world — not just demos.</b>
+  <b>I build AI products that survive reality — not just demos.</b>
 </p>
 
 <p align="center">
-AI fails when optimized for outputs instead of execution.  
-I design systems that survive users, constraints, and reality.
+  <a href="https://web-portfolio-two-black.vercel.app" target="_blank"><b>🌐 View My Full UI Portfolio</b></a>
 </p>
 
 ---
 
 ## What I Do
 
-* **AI Product Manager in the making**, focused on **LLM-powered, agentic systems**
-* Translate **messy human problems** into **clear product specs & system constraints**
-* Bridge **users ↔ models ↔ engineers ↔ business outcomes**
-* Obsessed with **execution reliability, observability, and human-in-the-loop AI**
+* **Translate Ambiguity to Execution**: I convert messy human behavior and qualitative requirements into strict technical constraints and PRDs.
+* **Deterministic AI Workflows**: I specialize in transitioning highly probabilistic LLM operations into robust, deterministic systems that do not hallucinate at scale.
+* **Diagnose Before Solutioning**: Obsessed with root-cause analysis (RCA), evaluating production LLM traces, and leveraging behavioral metrics to intercept silent user churn.
 
 ---
 
-## Current Role
+## Professional Experience
 
 ### **AI Product Analyst Intern**
+**Kookar AI (Stealth Startup)** · Gurugram | *July 2025 – Present*
+* **Product Diagnostics:** Diagnosed a 62% churn rate in AI voice onboarding by analyzing 500+ household interviews and LLM traces, shifting operational architecture from synchronous to asynchronous data capture to reduce call times by 22 minutes.
+* **System Architecture:** Engineered a dual-memory structural framework (2,000+ localized preferences), explicitly eliminating 90% of system hallucinations and dropping customer support ticket volume by 60%.
+* **Workflow Optimization:** Shipped structured quality gates after identifying core instruction drift across 1,200+ LangSmith production traces, systematically reducing post-generation user edits from 60% to under 10%.
 
-**Kookar AI (Stealth Startup)** · Gurugram
-*July 2025 – Present*
-
-> Owned end-to-end product outcomes for a production AI system used by real households.
-
-**Impact Highlights**
-
-* Led transformation of an **AI meal-planning product used by 500+ households**
-* Diagnosed a **40% real-world failure rate** despite **85% model accuracy** via **50+ user interviews**
-* Redesigned system from **sync → async architecture**, reducing calls **40 → 18 minutes**
-* Built **dual-memory system** (Meal Memory + Household State)
-  → **90% hallucination reduction**, **60% fewer support tickets**
-* Designed **5-stage agentic filtration pipeline** over **3,000+ dishes**, cutting context noise by **70%**
-* Converted creative agent → deterministic retrieval
-  → Accuracy improved **6.2 → 8.7 / 10**
-* Evaluated **1,200+ LLM traces** using LangSmith
-  → Reduced manual edits from **60% → <10%**
-* Codified **100+ operational rules** into a structured **World Knowledge Base & SOPs**
-
-> I don’t “prompt tweak.” I redesign systems.
-
----
-
-## Research Experience
+### **Student Coordinator & Ecosystem Lead**
+**Startup Bihar / IIIT Bhagalpur** · Bihar | *Sept 2024 – July 2025*
+* **Ecosystem Building:** Pioneered the 0→1 structural foundation of the university Startup Cell, establishing centralized ecosystem pipelines for 800+ participants.
+* **Founder Mentorship:** Mentored early-stage technical founders on PRD structuring, user research, and investor pitching, directly enabling 2 student teams to secure ~10 Lakh INR in government seed funding.
 
 ### **Research Intern – Medical AI**
-
-**IIT Mandi** · May 2024 – July 2024
-
-* Built AI-assisted **prostate cancer detection system** on **346 MRI scans**
-* Improved diagnostic accuracy **82% → 94%**
-* Reduced false positives by **20%**
-* Translated insights from **8 physician interviews** into deployable technical specs
-* Balanced **95% sensitivity** with **clinical explainability**
-
-> I convert expert intuition into product constraints.
+**IIT Mandi** · Himachal Pradesh | *May 2024 – July 2024*
+* **Diagnostic AI:** Developed an AI-assisted prostate cancer diagnostic pipeline on 346 MRI scans, successfully improving evaluation accuracy from 82% to 94%.
+* **Qualitative-to-Technical Alignment:** Translated qualitative clinical requirements entirely from 8 physician interviews into strict technical specifications, prioritizing a balance between high clinical sensitivity and architectural explainability.
 
 ---
 
-## Flagship Product Case Studies
+## Flagship Projects
 
-### **Why AI-Generated Meal Plans Fail in Real Households**
+### **1. Kookar Voice Onboarding App**
+[📱 Live on Google Play Store](https://play.google.com/store/apps/details?id=com.kookar.onboarding)
+* Shipped a production-ready, voice-native Android application designed to asynchronously capture complex dietary behaviors prior to primary user onboarding calls.
+* Eliminated synchronous scheduling bottlenecks by structurally integrating the frontend with robust parsing pipelines, scaling data capture successfully for 500+ households.
 
-*End-to-End AI Product Research*
-*(Mar 2026 – Apr 2026)*
+### **2. Generative UI Post-Onboarding Dashboard**
+[🌐 Live Web App Demo](https://post-onboarding-app.vercel.app/)
+* Delivered a 12-screen interactive dashboard explicitly built to visualize the outputs of asynchronous voice onboarding, driving initial product conviction for early trial users.
+* Designed a secondary 'Alf' Generative UI conversational layer allowing users to modify complex structural data visually without relying on heavy text manipulation.
 
-* Studied **500+ Indian households**
-* Used **journey mapping, RCA (5 Whys), LLM trace analysis**
-* Identified execution-level failures invisible in offline metrics
-
-**Key Insight**
-
-> AI products fail when optimized for output quality instead of execution reliability.
-
-**Product Takeaway**
-
-* Human-in-the-loop
-* Constraint-aware orchestration
-* Observability > raw accuracy
+### **3. Revika Content Agent: Bringing the Restaurant Home**
+[🎥 Live YouTube Content Channel](https://www.youtube.com/@kookarai)
+* Architected a 4-tier LLM-agent pipeline (Writer, Voice-Cloner, Image-Gen, Orchestrator) to autonomously generate personalized recipe videos.
+* Designed the proprietary 'Aunty' persona framework, utilizing LangSmith trace validation to force abstract generation into rigid, highly watchable video constraints.
 
 ---
 
-### **AI Product Manager Replica Agent**
+## The Arsenal (Skills)
 
-*Product Thinking Simulation*
-
-* Designed an AI agent that simulates:
-
-  * Problem framing
-  * PRD reasoning
-  * Prioritization
-  * Metrics & trade-offs
-* Conclusion:
-
-> AI accelerates analysis, but PM judgment is irreplaceable in ambiguity.
-
-> I use AI as leverage, not a crutch.
-
----
-
-## Technical Foundations (For Credibility)
-
-### AI & Systems
-
-* LLM Evaluation (LangSmith)
-* Agentic Systems (LangChain, LangGraph)
-* Hallucination Mitigation
-* Context Optimization
-* RAG, Transformer Architecture
-* Human-in-the-Loop Design
-
-### Product Management
-
-* Product Discovery & User Research
-* Root Cause Analysis (5 Whys)
-* PRDs & Problem Framing
-* Roadmaps & Metrics
-* A/B Testing
-* Stakeholder Management
-
-### Tools
-
-`Python · SQL · Figma · Linear · GitHub · Notion · Streamlit · Jupyter`
-
----
-
-## Leadership & Credentials
-
-* **ServiceNow Certified System Administrator**
-* **Student Coordinator – Startup Bihar**
-  Led startup–student engagement for **800+ participants**
-  Dept. of Industries, Govt. of Bihar
-* **Adobe GenSolve Hackathon 2024** — Top 50 / 1,00,000+
-* **Smart India Hackathon 2024** — Top 6 (College Finals)
-* **GATE CS 2025 – Qualified**
-* **Yuva Sangam Phase 4** — Sole institute representative
+* **Product Management:** Root Cause Analysis (5 Whys), PRD Structuring, 0→1 Product Building, Roadmaps, A/B Testing, User Research & Diagnostics, Feature Prioritization, Human-in-the-loop Design
+* **AI & Technical Depth:** LLM Evaluation (LangSmith), Observability, Generative UI, Agentic Systems, System-Level Data Capture, Python, SQL, C/C++, RAG, Machine Learning
+* **Leadership & Tools:** Ecosystem Building, Stakeholder Alignment, Event Orchestration, Figma, GitHub, Linear, Jupyter
 
 ---
 
 ## Education
 
-**B.Tech – Computer Science & Engineering**
-**IIIT Bhagalpur** · CGPA **9.14 / 10**
-*2022 – 2026*
+**B.Tech in Computer Science and Engineering**  
+*Indian Institute of Information Technology (IIIT) Bhagalpur*  
+CGPA: 9.14 / 10.0 | *November 2022 – May 2026*
 
 ---
 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sunnyrajendraraj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Product%20Mindset-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://web-portfolio-two-black.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Product%20Mindset-black?style=for-the-badge&logo=">
   </a>
-  <a href="https://github.com/sunnyrajendraraj">
-    <img src="https://img.shields.io/badge/GitHub-AI%20Products-black?style=for-the-badge&logo=github">
+  <a href="https://www.linkedin.com/in/sunnyrajendraraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
-## Philosophy
-
-> **Accuracy impresses demos.
-> Reliability wins markets.**
-
-I’m building AI products that **users trust**, **teams can operate**, and **businesses can scale**.
-
----
+<p align="center">
+  <i>"Accuracy impresses demos. Reliability wins markets."</i>
+</p>
